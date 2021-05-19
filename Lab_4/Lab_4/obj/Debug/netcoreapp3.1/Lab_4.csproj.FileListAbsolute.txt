@@ -1,0 +1,12 @@
+C:\Users\semen\source\repos\Lab_4\Lab_4\bin\Debug\netcoreapp3.1\Lab_4.exe
+C:\Users\semen\source\repos\Lab_4\Lab_4\bin\Debug\netcoreapp3.1\Lab_4.deps.json
+C:\Users\semen\source\repos\Lab_4\Lab_4\bin\Debug\netcoreapp3.1\Lab_4.runtimeconfig.json
+C:\Users\semen\source\repos\Lab_4\Lab_4\bin\Debug\netcoreapp3.1\Lab_4.runtimeconfig.dev.json
+C:\Users\semen\source\repos\Lab_4\Lab_4\bin\Debug\netcoreapp3.1\Lab_4.dll
+C:\Users\semen\source\repos\Lab_4\Lab_4\bin\Debug\netcoreapp3.1\Lab_4.pdb
+C:\Users\semen\source\repos\Lab_4\Lab_4\obj\Debug\netcoreapp3.1\Lab_4.AssemblyInfoInputs.cache
+C:\Users\semen\source\repos\Lab_4\Lab_4\obj\Debug\netcoreapp3.1\Lab_4.AssemblyInfo.cs
+C:\Users\semen\source\repos\Lab_4\Lab_4\obj\Debug\netcoreapp3.1\Lab_4.csproj.CoreCompileInputs.cache
+C:\Users\semen\source\repos\Lab_4\Lab_4\obj\Debug\netcoreapp3.1\Lab_4.dll
+C:\Users\semen\source\repos\Lab_4\Lab_4\obj\Debug\netcoreapp3.1\Lab_4.pdb
+C:\Users\semen\source\repos\Lab_4\Lab_4\obj\Debug\netcoreapp3.1\Lab_4.genruntimeconfig.cache

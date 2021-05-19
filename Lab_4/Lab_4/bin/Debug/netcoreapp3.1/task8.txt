@@ -1,0 +1,18 @@
+        static Char Decode(char ch)
+        {
+            for (int i = 0; i < MyDec2.Count; i++)
+            {
+                Char x = MyDec2.PopBack();
+                if (ch == x)
+                {
+                    MyDec2.PushFront(x);
+                    Char Value = MyDec2.PopBack();
+                    MyDec2.PushFront(Value);
+                    return Value;
+                }
+
+                MyDec2.PushFront(x);
+            }
+
+            return ch;
+        }
