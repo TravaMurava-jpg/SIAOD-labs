@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "GFMZluTJ97VrgLPHe4zS+zeaWef2mnE8hZxSA+hVwI4H2bZkhg0cHbKm5FV1l7sx8NAXqpGxpQLgxGJOeHN0YQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\semen\\source\\repos\\Kursovaya_rabota\\Kursovaya_rabota\\Kursovaya_rabota.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\semen\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\semen\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\semen\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\semen\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

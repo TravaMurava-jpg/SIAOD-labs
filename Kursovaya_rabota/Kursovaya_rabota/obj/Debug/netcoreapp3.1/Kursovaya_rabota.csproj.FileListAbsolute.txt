@@ -1,0 +1,13 @@
+C:\Users\semen\source\repos\Kursovaya_rabota\Kursovaya_rabota\obj\Debug\netcoreapp3.1\Kursovaya_rabota.csprojAssemblyReference.cache
+C:\Users\semen\source\repos\Kursovaya_rabota\Kursovaya_rabota\obj\Debug\netcoreapp3.1\Kursovaya_rabota.AssemblyInfoInputs.cache
+C:\Users\semen\source\repos\Kursovaya_rabota\Kursovaya_rabota\obj\Debug\netcoreapp3.1\Kursovaya_rabota.AssemblyInfo.cs
+C:\Users\semen\source\repos\Kursovaya_rabota\Kursovaya_rabota\obj\Debug\netcoreapp3.1\Kursovaya_rabota.csproj.CoreCompileInputs.cache
+C:\Users\semen\source\repos\Kursovaya_rabota\Kursovaya_rabota\bin\Debug\netcoreapp3.1\Kursovaya_rabota.exe
+C:\Users\semen\source\repos\Kursovaya_rabota\Kursovaya_rabota\bin\Debug\netcoreapp3.1\Kursovaya_rabota.deps.json
+C:\Users\semen\source\repos\Kursovaya_rabota\Kursovaya_rabota\bin\Debug\netcoreapp3.1\Kursovaya_rabota.runtimeconfig.json
+C:\Users\semen\source\repos\Kursovaya_rabota\Kursovaya_rabota\bin\Debug\netcoreapp3.1\Kursovaya_rabota.runtimeconfig.dev.json
+C:\Users\semen\source\repos\Kursovaya_rabota\Kursovaya_rabota\bin\Debug\netcoreapp3.1\Kursovaya_rabota.dll
+C:\Users\semen\source\repos\Kursovaya_rabota\Kursovaya_rabota\bin\Debug\netcoreapp3.1\Kursovaya_rabota.pdb
+C:\Users\semen\source\repos\Kursovaya_rabota\Kursovaya_rabota\obj\Debug\netcoreapp3.1\Kursovaya_rabota.dll
+C:\Users\semen\source\repos\Kursovaya_rabota\Kursovaya_rabota\obj\Debug\netcoreapp3.1\Kursovaya_rabota.pdb
+C:\Users\semen\source\repos\Kursovaya_rabota\Kursovaya_rabota\obj\Debug\netcoreapp3.1\Kursovaya_rabota.genruntimeconfig.cache
